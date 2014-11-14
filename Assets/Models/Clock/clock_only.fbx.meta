@@ -1,19 +1,23 @@
 fileFormatVersion: 2
-guid: 71cc44a6a7e56764b9522ef42f02c37a
+guid: a18e8a695454a1a4394b8a88ce3602c8
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
-    100000: Camera
+    100000: clock_body
     100002: //RootNode
-    100004: Lamp
-    100006: Plane
-    400000: Camera
+    100004: clock_table
+    400000: clock_body
     400002: //RootNode
-    400004: Lamp
-    400006: Plane
-    2300000: Plane
-    3300000: Plane
-    4300000: Plane
+    400004: clock_table
+    2300000: clock_body
+    2300002: //RootNode
+    2300004: clock_table
+    3300000: clock_body
+    3300002: //RootNode
+    3300004: clock_table
+    4300000: clock
+    4300002: clock_table
+    4300004: clock_body
     9500000: //RootNode
   materials:
     importMaterials: 1
