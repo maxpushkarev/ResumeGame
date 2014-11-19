@@ -142,3 +142,40 @@ Cmd: preprocess
   insize=729 outsize=1301 ok=1
 Cmd: preprocess
   insize=745 outsize=1317 ok=1
+Cmd: preprocess
+  insize=746 outsize=1318 ok=1
+Cmd: preprocess
+  error: 2 plat 12 at (11): Surface lighting model 'MyCustomDiffuseLightingModel' not found. Available models: BlinnPhong, Lambert
+  insize=767 outsize=482 ok=0
+Cmd: preprocess
+  error: 2 plat 1 at (14): function "LightingMyCustomDiffuseLightingModel" has no statements
+  error: 2 plat 1 at (17): expression type incompatible with function return type
+  insize=880 outsize=1441 ok=0
+Cmd: preprocess
+  insize=1043 outsize=935 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4623 outsize=548 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4623 outsize=381 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2627 outsize=336 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2627 outsize=493 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2627 outsize=206 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2627 outsize=363 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  insize=1036 outsize=935 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4616 outsize=548 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4616 outsize=381 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2620 outsize=336 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2620 outsize=493 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2620 outsize=206 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2620 outsize=363 kw=DIRECTIONAL ok=1

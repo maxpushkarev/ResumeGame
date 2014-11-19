@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Service\LevelController.cs" />
+     <None Include="Assets\Test\Shaders\MyCustomDiffuseLightingModel.shader" />
      <None Include="Assets\Test\Shaders\AmbientAndEmissiveColorsMix.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
