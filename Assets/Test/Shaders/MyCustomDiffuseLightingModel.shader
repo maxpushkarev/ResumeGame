@@ -11,6 +11,8 @@
 		CGPROGRAM
 		#pragma surface surf MyCustomDiffuseLightingModel
 
+
+		//Собствнно, модель освещения ламберта
 		inline float4 LightingMyCustomDiffuseLightingModel(SurfaceOutput s, fixed3 lightDir, fixed atten)
 		{
 			float difLight = max(0, dot(s.Normal, lightDir));
