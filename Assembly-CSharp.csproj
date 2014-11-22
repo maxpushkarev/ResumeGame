@@ -50,11 +50,13 @@
      <None Include="Assets\Test\Shaders\ScrollTexture.shader" />
      <None Include="Assets\Test\Shaders\MyCustomDiffuseLightingModel.shader" />
      <None Include="Assets\Test\Shaders\SpriteAnimation.shader" />
+     <None Include="Assets\Test\Shaders\MyBlinnPhong.shader" />
      <None Include="Assets\Test\Shaders\NormalMapping.shader" />
      <None Include="Assets\Test\Shaders\PhotoshopLevel.shader" />
      <None Include="Assets\Test\Shaders\HalfLambertRampTextureWithViewDir.shader" />
      <None Include="Assets\Test\Shaders\HalfLambertDiffuse.shader" />
      <None Include="Assets\Test\Shaders\HalfLambertRampTexture.shader" />
+     <None Include="Assets\Test\Shaders\MyPhong.shader" />
      <None Include="Assets\Test\Shaders\BlenderTexture.shader" />
      <None Include="Assets\Test\Shaders\AmbientAndEmissiveColorsMix.shader" />
   </ItemGroup>
