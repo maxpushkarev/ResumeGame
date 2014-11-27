@@ -1,3 +1,76 @@
 Base path: C:/Program Files/Unity/Editor/Data
 Pipe name: \\.\pipe\UnityShaderCompiler-1-9
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=440 outsize=1186 ok=1
+Cmd: preprocess
+  insize=597 outsize=1343 ok=1
+Cmd: preprocess
+  insize=597 outsize=1343 ok=1
+Cmd: preprocess
+  insize=594 outsize=1340 ok=1
+Cmd: preprocess
+  insize=592 outsize=1338 ok=1
+Cmd: preprocess
+  insize=598 outsize=1344 ok=1
+Cmd: preprocess
+  insize=598 outsize=1344 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4280 outsize=595 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4280 outsize=270 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2256 outsize=383 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2256 outsize=399 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1784 outsize=190 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1784 outsize=118 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3997 outsize=639 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3997 outsize=220 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: preprocess
+  insize=687 outsize=1345 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4369 outsize=595 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4369 outsize=270 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2345 outsize=383 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2345 outsize=399 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1873 outsize=190 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1873 outsize=118 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4086 outsize=639 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4086 outsize=220 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: preprocess
+  error: 2 plat 1 at (34): undefined variable "_ReflAmount"
+  insize=773 outsize=1335 ok=0
+Cmd: preprocess
+  insize=773 outsize=1344 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4728 outsize=853 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4728 outsize=368 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2431 outsize=383 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2431 outsize=418 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1959 outsize=190 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1959 outsize=118 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4414 outsize=899 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4414 outsize=300 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2431 outsize=253 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2431 outsize=283 kw=DIRECTIONAL ok=1
