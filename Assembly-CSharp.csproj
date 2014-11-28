@@ -67,6 +67,7 @@
      <None Include="Assets\Test\Shaders\HalfLambertRampTexture.shader" />
      <None Include="Assets\Test\Shaders\MyPhong.shader" />
      <None Include="Assets\Test\Shaders\BlenderTexture.shader" />
+     <None Include="Assets\Test\Shaders\DiffuseConvolution.shader" />
      <None Include="Assets\Test\Shaders\AmbientAndEmissiveColorsMix.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
