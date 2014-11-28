@@ -52,12 +52,16 @@
      <None Include="Assets\Test\Shaders\MyCustomDiffuseLightingModel.shader" />
      <None Include="Assets\Test\Shaders\SpriteAnimation.shader" />
      <None Include="Assets\Test\Shaders\MyBlinnPhong.shader" />
+     <None Include="Assets\Test\Shaders\MaskingReflection.shader" />
      <None Include="Assets\Test\Shaders\SimpleReflection.shader" />
      <None Include="Assets\Test\Shaders\SpecularTexture.shader" />
+     <None Include="Assets\Test\Shaders\NormalMapReflection.shader" />
      <None Include="Assets\Test\Shaders\NormalMapping.shader" />
      <None Include="Assets\Test\Shaders\PhotoshopLevel.shader" />
      <None Include="Assets\Test\Shaders\HalfLambertRampTextureWithViewDir.shader" />
      <None Include="Assets\Test\Shaders\AnisotropicSpecular.shader" />
+     <None Include="Assets\Test\Shaders\FresnelReflection.shader" />
+     <None Include="Assets\Test\Shaders\UnlitLighting.shader" />
      <None Include="Assets\Test\Shaders\HalfLambertDiffuse.shader" />
      <None Include="Assets\Test\Shaders\Metallic.shader" />
      <None Include="Assets\Test\Shaders\HalfLambertRampTexture.shader" />
