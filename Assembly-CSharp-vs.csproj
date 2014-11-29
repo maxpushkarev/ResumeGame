@@ -55,12 +55,14 @@
      <None Include="Assets\Test\Shaders\CarBrush.shader" />
      <None Include="Assets\Test\Shaders\MaskingReflection.shader" />
      <None Include="Assets\Test\Shaders\SimpleReflection.shader" />
+     <None Include="Assets\Test\Shaders\Cloth.shader" />
      <None Include="Assets\Test\Shaders\SpecularTexture.shader" />
      <None Include="Assets\Test\Shaders\NormalMapReflection.shader" />
      <None Include="Assets\Test\Shaders\NormalMapping.shader" />
      <None Include="Assets\Test\Shaders\PhotoshopLevel.shader" />
      <None Include="Assets\Test\Shaders\HalfLambertRampTextureWithViewDir.shader" />
      <None Include="Assets\Test\Shaders\AnisotropicSpecular.shader" />
+     <None Include="Assets\Test\Shaders\AlphaTexture.shader" />
      <None Include="Assets\Test\Shaders\FresnelReflection.shader" />
      <None Include="Assets\Test\Shaders\UnlitLighting.shader" />
      <None Include="Assets\Test\Shaders\HalfLambertDiffuse.shader" />
@@ -68,6 +70,7 @@
      <None Include="Assets\Test\Shaders\HalfLambertRampTexture.shader" />
      <None Include="Assets\Test\Shaders\MyPhong.shader" />
      <None Include="Assets\Test\Shaders\BlenderTexture.shader" />
+     <None Include="Assets\Test\Shaders\Skin.shader" />
      <None Include="Assets\Test\Shaders\DiffuseConvolution.shader" />
      <None Include="Assets\Test\Shaders\AmbientAndEmissiveColorsMix.shader" />
   </ItemGroup>
