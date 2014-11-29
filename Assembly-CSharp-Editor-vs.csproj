@@ -50,6 +50,7 @@
      <None Include="Assets\Test\Shaders\ScrollTexture.shader" />
      <None Include="Assets\Test\Shaders\MyCustomBlinnPhong.shader" />
      <None Include="Assets\Test\Shaders\MyCustomDiffuseLightingModel.shader" />
+     <None Include="Assets\Test\Shaders\Cutoff.shader" />
      <None Include="Assets\Test\Shaders\SpriteAnimation.shader" />
      <None Include="Assets\Test\Shaders\MyBlinnPhong.shader" />
      <None Include="Assets\Test\Shaders\CarBrush.shader" />
@@ -64,6 +65,7 @@
      <None Include="Assets\Test\Shaders\AnisotropicSpecular.shader" />
      <None Include="Assets\Test\Shaders\AlphaTexture.shader" />
      <None Include="Assets\Test\Shaders\FresnelReflection.shader" />
+     <None Include="Assets\Test\Shaders\SimpleVertex.shader" />
      <None Include="Assets\Test\Shaders\UnlitLighting.shader" />
      <None Include="Assets\Test\Shaders\HalfLambertDiffuse.shader" />
      <None Include="Assets\Test\Shaders\Metallic.shader" />
