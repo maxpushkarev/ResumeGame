@@ -15,7 +15,7 @@
 		LOD 200
 		
 		CGPROGRAM
-		#pragma surface surf Lambert
+		#pragma surface surf HalfLambert
 
 		sampler2D _RTexture;
 		sampler2D _GTexture;
@@ -33,6 +33,20 @@
 			float2 uv_ATexture;
 			float2 uv_BlendTexture;
 		};
+
+
+		half4 LightingHalfLambert(SurfaceOutput s, fixed3 lightDir, fixed atten)
+		{
+			float difLight = dot(s.Normal, lightDir);
+			float halfDifLight = difLight * 0.5 + 0.5;
+			
+			float4 col;
+			
+			col.rgb = s.Albedo * _LightColor0.rgb * (halfDifLight*atten * 2);
+			col.a = s.Alpha;
+			
+			return col;
+		}
 
 		void surf (Input IN, inout SurfaceOutput o) {
 		
