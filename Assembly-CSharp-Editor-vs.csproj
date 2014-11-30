@@ -54,6 +54,7 @@
      <None Include="Assets\Test\Shaders\Cutoff.shader" />
      <None Include="Assets\Test\Shaders\SpriteAnimation.shader" />
      <None Include="Assets\Test\Shaders\MyBlinnPhong.shader" />
+     <None Include="Assets\Materials\Building\Wall\Wall.shader" />
      <None Include="Assets\Materials\Building\Roof\Roof.shader" />
      <None Include="Assets\Test\Shaders\CarBrush.shader" />
      <None Include="Assets\Test\Shaders\MaskingReflection.shader" />

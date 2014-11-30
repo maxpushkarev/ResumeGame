@@ -2,7 +2,7 @@
 	Properties {
 		_NormalMap ("Normal Map", 2D) = "bump" {}
 		_MainTint ("Diffuse Color", Color) = (1,1,1,1)
-		_NormalIntensity ("Normal Intensity", Range(0, 2)) = 1
+		_NormalIntensity ("Normal Intensity", Range(0, 10)) = 1
 	}
 	SubShader {
 		Tags { "RenderType"="Opaque" }

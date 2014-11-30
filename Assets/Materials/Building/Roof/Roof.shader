@@ -23,18 +23,6 @@
 			float2 uv_CeilingTex;
 		};
 
-
-		//Собствнно, модель освещения ламберта
-		half4 LightingHalfLambert(SurfaceOutput s, fixed3 lightDir, fixed atten)
-		{
-			float difLight = dot(s.Normal, lightDir);
-			float halfDifLight = difLight*0.5+0.5;
-			float4 col;
-			col.rgb = s.Albedo * _LightColor0.rgb * (halfDifLight*atten*2);
-			col.a = s.Alpha;
-			return col;
-		}
-
 		void surf (Input IN, inout SurfaceOutput o) {
 			half4 c = tex2D(_CeilingTex, IN.uv_CeilingTex) * _MainTint;
 		
