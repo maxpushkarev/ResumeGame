@@ -2,91 +2,69 @@ Base path: C:/Program Files/Unity/Editor/Data
 Pipe name: \\.\pipe\UnityShaderCompiler-2-47
 Cmd: getPlatforms
 Cmd: compileSnippet
-  api=0 type=0 insize=5832 outsize=1062 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=8 type=0 insize=5999 outsize=4477 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=5832 outsize=1534 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=5999 outsize=1840 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=3776 outsize=898 kw=SPOT ok=1
+  api=1 type=0 insize=5999 outsize=1411 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=3776 outsize=1556 kw=DIRECTIONAL ok=1
+  api=0 type=1 insize=5999 outsize=760 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=3776 outsize=1556 kw=DIRECTIONAL_COOKIE ok=1
+  api=0 type=1 insize=5999 outsize=828 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=5 type=0 insize=5832 outsize=4436 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=5999 outsize=834 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=5 type=0 insize=5832 outsize=1157 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+  api=8 type=1 insize=5999 outsize=3990 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=1 type=0 insize=5832 outsize=883 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=8 type=0 insize=3919 outsize=4794 kw=POINT ok=1
 Cmd: compileSnippet
-  api=9 type=0 insize=5832 outsize=4575 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=0 insize=3919 outsize=3378 kw=SPOT ok=1
 Cmd: compileSnippet
-  api=5 type=0 insize=5832 outsize=5522 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+  api=1 type=0 insize=3919 outsize=513 kw=POINT_COOKIE ok=1
 Cmd: compileSnippet
-  api=5 type=0 insize=5832 outsize=5673 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+  api=4 type=0 insize=3919 outsize=3045 kw=DIRECTIONAL_COOKIE ok=1
 Cmd: compileSnippet
-  api=5 type=0 insize=5832 outsize=4673 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=3919 outsize=747 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=9 type=0 insize=5832 outsize=6044 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+  api=8 type=1 insize=3919 outsize=3332 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  error: 1 plat 4 at (48): implicit truncation of vector type
-  error: 2 plat 4 at (56): incorrect number of arguments to numeric-type constructor
-  api=4 type=1 insize=5832 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+  api=1 type=1 insize=3919 outsize=779 kw=POINT_COOKIE ok=1
 Cmd: compileSnippet
-  api=9 type=1 insize=5832 outsize=7 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+  api=8 type=1 insize=3919 outsize=4209 kw=POINT_COOKIE ok=1
 Cmd: compileSnippet
-  error: 1 plat 4 at (48): implicit truncation of vector type
-  error: 2 plat 4 at (56): incorrect number of arguments to numeric-type constructor
-  api=4 type=1 insize=5832 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+  api=0 type=0 insize=6031 outsize=1442 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=9 type=1 insize=5832 outsize=7 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=8 type=0 insize=6031 outsize=2714 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=1 type=1 insize=5832 outsize=389 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+  api=8 type=0 insize=6031 outsize=6167 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=5 type=0 insize=3776 outsize=3567 kw=POINT ok=1
+  api=8 type=0 insize=6031 outsize=8345 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
 Cmd: compileSnippet
-  error: 1 plat 4 at (48): implicit truncation of vector type
-  error: 2 plat 4 at (56): incorrect number of arguments to numeric-type constructor
-  api=4 type=0 insize=3776 outsize=0 kw=SPOT ok=0
+  api=0 type=1 insize=6031 outsize=884 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=5 type=0 insize=3776 outsize=3563 kw=SPOT ok=1
+  api=4 type=1 insize=6031 outsize=1843 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  error: 1 plat 4 at (48): implicit truncation of vector type
-  error: 2 plat 4 at (56): incorrect number of arguments to numeric-type constructor
-  api=4 type=0 insize=3776 outsize=0 kw=POINT_COOKIE ok=0
+  api=1 type=1 insize=6031 outsize=798 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=5 type=0 insize=3776 outsize=3567 kw=POINT_COOKIE ok=1
+  api=1 type=1 insize=6031 outsize=659 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=5 type=0 insize=3776 outsize=3465 kw=DIRECTIONAL_COOKIE ok=1
+  api=0 type=0 insize=3850 outsize=1320 kw=POINT ok=1
 Cmd: compileSnippet
-  api=9 type=1 insize=3776 outsize=7 kw=POINT ok=1
+  api=8 type=0 insize=3850 outsize=3827 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  error: 1 plat 4 at (48): implicit truncation of vector type
-  error: 2 plat 4 at (56): incorrect number of arguments to numeric-type constructor
-  api=4 type=1 insize=3776 outsize=0 kw=DIRECTIONAL ok=0
+  api=0 type=0 insize=3850 outsize=1320 kw=POINT_COOKIE ok=1
 Cmd: compileSnippet
-  api=5 type=1 insize=3776 outsize=6 kw=POINT_COOKIE ok=1
+  api=8 type=0 insize=3850 outsize=4981 kw=POINT_COOKIE ok=1
 Cmd: compileSnippet
-  api=6 type=1 insize=3776 outsize=6 kw=POINT_COOKIE ok=1
+  api=0 type=1 insize=3850 outsize=1028 kw=POINT ok=1
 Cmd: compileSnippet
-  api=9 type=1 insize=3776 outsize=7 kw=POINT_COOKIE ok=1
+  api=8 type=1 insize=3850 outsize=3746 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=1 type=1 insize=3776 outsize=1395 kw=DIRECTIONAL_COOKIE ok=1
+  api=0 type=1 insize=3850 outsize=1098 kw=POINT_COOKIE ok=1
 Cmd: compileSnippet
-  error: 1 plat 4 at (48): implicit truncation of vector type
-  error: 2 plat 4 at (56): incorrect number of arguments to numeric-type constructor
-  api=4 type=0 insize=5832 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+  api=4 type=1 insize=3850 outsize=3021 kw=POINT_COOKIE ok=1
 Cmd: compileSnippet
-  error: 1 plat 4 at (48): implicit truncation of vector type
-  error: 2 plat 4 at (56): incorrect number of arguments to numeric-type constructor
-  api=4 type=1 insize=5832 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
-Cmd: compileSnippet
-  error: 1 plat 4 at (48): implicit truncation of vector type
-  error: 2 plat 4 at (56): incorrect number of arguments to numeric-type constructor
-  api=4 type=0 insize=3776 outsize=0 kw=SPOT ok=0
-Cmd: compileSnippet
-  error: 1 plat 4 at (48): implicit truncation of vector type
-  error: 2 plat 4 at (56): incorrect number of arguments to numeric-type constructor
-  api=4 type=1 insize=3776 outsize=0 kw=DIRECTIONAL ok=0
+  api=1 type=1 insize=3850 outsize=779 kw=DIRECTIONAL_COOKIE ok=1
 Unhandled exception: Readfile from pipe failed. GLE=Канал закрыт.
 
 
